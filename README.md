@@ -1,2 +1,2 @@
 # gitdemo
-This is my demo repo
+This is my demo repogetory
